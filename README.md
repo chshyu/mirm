@@ -1,0 +1,2 @@
+# mirm
+mirm auto
